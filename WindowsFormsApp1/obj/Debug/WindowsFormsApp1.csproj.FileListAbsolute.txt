@@ -1,0 +1,11 @@
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\importformexel.Properties.Resources.resources
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\importformexel.exe.config
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\importformexel.exe
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\importformexel.pdb
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\importformexel.exe
+C:\Users\10\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\importformexel.pdb
